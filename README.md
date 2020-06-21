@@ -1,4 +1,4 @@
-# tst
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -38,9 +38,7 @@
           <p>Aqui você encontra curiosidades e dicas sobre peixes... Confira abaixo, alguns momentos engraçados do esporte:
           </p>
 
-        <video width="600" height="360" controls loop>
-        <source src="vid.mp4" type="video/mp4">
-        </video>
+      
         </article>                  
 
         <aside>
